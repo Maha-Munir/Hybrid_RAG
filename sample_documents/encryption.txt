@@ -1,0 +1,1 @@
+Encryption converts readable information into unreadable ciphertext using a key. The correct key is needed to decrypt the data. Encryption helps protect confidential information during storage and transmission.

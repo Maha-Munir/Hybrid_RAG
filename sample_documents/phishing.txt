@@ -1,0 +1,1 @@
+Phishing is a cyberattack in which an attacker sends deceptive messages to trick people into sharing passwords or other sensitive information. Checking suspicious links and sender addresses can help prevent phishing.

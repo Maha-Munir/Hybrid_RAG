@@ -1,0 +1,1 @@
+A firewall protects a computer network from unauthorized access. It monitors incoming and outgoing traffic and allows or blocks packets according to security rules. Firewalls help reduce exposure to unwanted network connections.
